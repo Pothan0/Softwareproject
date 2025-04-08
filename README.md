@@ -45,7 +45,6 @@ The primary goal of MediBot is to provide a fast, efficient, and context-aware i
 | PDF Parsing            | `LangChain`, `PyPDFLoader` |
 | Text Chunking          | `RecursiveCharacterTextSplitter` |
 | Interface              | `Gradio` |
-| Language               | Python 3.10+ |
 | Deployment             | Gradio |
 
 ---
@@ -125,7 +124,7 @@ The primary goal of MediBot is to provide a fast, efficient, and context-aware i
 
 ## 🧪 Experimental Setup
 
-- Environment: Python 3.10, Jupyter Notebook
+- Environment: Google Collab
 - Libraries: HuggingFace Transformers, LangChain, SentenceTransformers
 - Platform: CPU (GPU supported for acceleration)
 - Interface: Gradio
