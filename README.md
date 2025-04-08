@@ -1,4 +1,16 @@
 # Softwareproject
+---
+
+## 👨‍💻 Contributors
+
+- **A. Doni Adithya** (23bds007)  
+- **L. Sahith Akash Manikanta** (23bds031)  
+- **Prasanna Kote** (23bds045)  
+- **C. Pothan Sai Reddy** (23bds017)  
+- **K. Ram Charan** (23bds029)  
+- **S. Sasi Rekha** (23bds049)
+
+---
 # 🧠 MediBot: AI-Based Medical Chatbot for Document-Driven Question Answering
 
 MediBot is an intelligent chatbot built to simplify access to medical information through natural language queries. Instead of using traditional keyword searches, MediBot leverages cutting-edge AI — transformers, semantic embeddings, and vector databases — to fetch contextually accurate responses from static medical PDFs.
@@ -121,15 +133,4 @@ The primary goal of MediBot is to provide a fast, efficient, and context-aware i
 ---
 
 
----
 
-## 👨‍💻 Contributors
-
-- **A. Doni Adithya** (23bds007)  
-- **L. Sahith Akash Manikanta** (23bds031)  
-- **Prasanna Kote** (23bds045)  
-- **C. Pothan Sai Reddy** (23bds017)  
-- **K. Ram Charan** (23bds029)  
-- **S. Sasi Rekha** (23bds049)
-
----
